@@ -7,3 +7,4 @@ Process of deploying:
 5. When building a CLI define which files to run using "bin"
 6. Add pre-publish script
 7. Commit to git
+8. run "npm publish"
